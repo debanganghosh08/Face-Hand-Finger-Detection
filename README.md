@@ -118,8 +118,8 @@ pip install opencv-python mediapipe
 ### **🚀 How to Run the Project?**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/face-finger-detection.git
-   cd face-finger-detection
+   git clone https://github.com/debanganghosh08/Face-Hand-Finger-Detection.git
+   cd Face-Hand-Finger-Detection
    ```
 2. **Run the Python Script**:
    ```bash
